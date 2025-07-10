@@ -25,12 +25,12 @@
 ![DVC](https://img.shields.io/badge/DvC-%23000000.svg?style=for-the-badge&logo=dvc&color=FFFFFF)
 ![Colab](https://img.shields.io/badge/Colab-%23FF6F00.svg?style=for-the-badge&logo=googlecolab&color=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 I am studying
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 I aim to study
 
